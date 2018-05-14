@@ -58,8 +58,6 @@ document.getElementById("upRight").innerHTML = rLine;
 }
 
 
-
-
 function downRight(pHeight, pColorEven, pColorOdd, pSymbol){
 	var rLine ="";
 	for (i=pHeight; i > 0; i--){
